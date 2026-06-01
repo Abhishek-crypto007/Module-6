@@ -28,5 +28,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ## 💻 Program
 
 ## Output
+<img width="1366" height="925" alt="image" src="https://github.com/user-attachments/assets/27fb935f-8052-4f9c-be15-772ce31823f0" />
 
 ## Result
+Thus the python program to create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism is completed successfully.
